@@ -1,0 +1,9 @@
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\bin\Debug\netcoreapp1.1\LinkedList.deps.json
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\bin\Debug\netcoreapp1.1\LinkedList.runtimeconfig.json
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\bin\Debug\netcoreapp1.1\LinkedList.runtimeconfig.dev.json
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\bin\Debug\netcoreapp1.1\LinkedList.dll
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\bin\Debug\netcoreapp1.1\LinkedList.pdb
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\obj\Debug\netcoreapp1.1\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\obj\Debug\netcoreapp1.1\LinkedList.AssemblyInfo.cs
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\obj\Debug\netcoreapp1.1\LinkedList.dll
+C:\Users\kunal\documents\visual studio 2017\Projects\DataStructure\LinkedList\LinkedList\obj\Debug\netcoreapp1.1\LinkedList.pdb
